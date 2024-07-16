@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Serjant666
+- 👋 Hi, I’m @Seregannj
 - 👀 I am interested in creating small projects.
 - 🌱 I am currently studying on my own
 - 💞️ I want to collaborate on the development of small projects for different oparation systems
